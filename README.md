@@ -1,3 +1,3 @@
 ### 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=314ubqcugkircvgbrbc6xtltvpye&count=5)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
