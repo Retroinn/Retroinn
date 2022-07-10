@@ -2,9 +2,9 @@
 
 <div align="center">
   
-![Retroin GitHub stats](https://github-readme-stats.vercel.app/api?username=xRetroinx&show_icons=true&theme=midnight-purple)
+![Retroin GitHub stats](https://github-readme-stats.vercel.app/api?username=Retroinn&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRetroinx&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Retroinn&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/578857884650307584?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true&hideBadges=false&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/578857884650307584)  
 </div>
