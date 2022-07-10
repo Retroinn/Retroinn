@@ -12,5 +12,5 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Spotify Playing 🎧</h2>
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314ubqcugkircvgbrbc6xtltvpye&cover_image=true&theme=novatorem&bar_color=5908aa&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=314ubqcugkircvgbrbc6xtltvpye&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314ubqcugkircvgbrbc6xtltvpye&cover_image=true&theme=novatorem&bar_color=5908aa&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=314ubqcugkircvgbrbc6xtltvpye&redirect=true)
 </div>
