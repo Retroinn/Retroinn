@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRetroinx&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/578857884650307584?theme=light&bg=ffffff&animated=false&hideDiscrim=true&borderRadius=30px&hideStatus=false&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/578857884650307584)  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/578857884650307584?theme=dark&bg=ffffff&animated=false&hideDiscrim=true&borderRadius=30px&hideStatus=false&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/578857884650307584)  
 </div>
 
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Spotify Playing 🎧</h2>
