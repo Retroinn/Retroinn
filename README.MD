@@ -2,11 +2,9 @@
 
 <div align="center">
 ![Retroin GitHub stats](https://github-readme-stats.vercel.app/api?username=xRetroinx&show_icons=true&theme=midnight-purple)
-</div>
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRetroinx&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div align="center">
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/578857884650307584)](https://discord.com/users/578857884650307584)  
 </div>
 
