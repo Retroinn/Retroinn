@@ -16,10 +16,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Retroin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Retroinn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Retroin) 
+[![coffee](https://img.shields.io/badge/coffee-F96854?style=for-the-badge&logo=coffee&logoColor=white)](https://buymeacoffee.com/retroin) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
